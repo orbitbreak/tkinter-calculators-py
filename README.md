@@ -1,0 +1,1 @@
+A very basic calculator implemented in Python using Tkinter. With easter eggs
