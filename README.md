@@ -1,1 +1,2 @@
-A very basic calculator implemented in Python using Tkinter. With easter eggs
+Basic calculator app with tkinter GUI in python.
+One older one, and a newer one with modern idioms. May contain easter eggs.
